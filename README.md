@@ -1,1 +1,1 @@
-# PluginVersion
+PluginName | PluginVersion
