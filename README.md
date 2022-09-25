@@ -1,1 +1,1 @@
-PluginName | PluginVersion
+MP-PluginCore = 1.0
